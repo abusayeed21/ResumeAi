@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![ResumeAI Logo](https://via.placeholder.com/150x150/4A90E2/FFFFFF?text=ResumeAI)
+
 
 **Transform your hiring process with AI-powered resume analysis**
 
